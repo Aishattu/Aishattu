@@ -44,7 +44,12 @@ Clay · Claude Code · Claude API · Codex · Grok · Apify · HubSpot · Salesf
 
 ## Projects
 
-Coming soon.
+### [Anaconda Prospect Research Agent](https://github.com/Aishattu/Anaconda-Prospect-Research)
+*GTM systems (sales) + RevOps*
+
+Paste a LinkedIn URL and get the prospect's profile, verified email, an AI-written summary and outreach angle, and a verdict on whether the account fits Anaconda: does the company use AI, and does it run on one of Anaconda's partner platforms (AWS, Azure, Google Cloud, Oracle, Databricks, Snowflake)? One click saves it all to HubSpot.
+
+Built with Clay, Claude, BuiltWith, TheirStack, HubSpot and Vercel. · [Live demo](https://anaconda-prospect-research.vercel.app)
 
 ## Contact
 
