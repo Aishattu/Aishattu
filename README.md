@@ -51,6 +51,13 @@ Paste a LinkedIn URL and get the prospect's profile, verified email, an AI-writt
 
 Built with Clay, Claude, BuiltWith, TheirStack, HubSpot and Vercel.
 
+### [Apify Actors: Hiring-Signal Infrastructure](https://github.com/Aishattu/apify-actors)
+*Outbound systems (signals + list building)*
+
+Four custom Apify actors that turn job boards into clean, deduplicated hiring-signal datasets for Clay. Three collect the signals from Y Combinator's job board, jobs.mkt1.co and GoFractional, including founder LinkedIn profiles and the original ATS apply links. The fourth checks each LinkedIn posting is still open and whether it's remote, hybrid or on-site, before anything reaches outreach.
+
+Built with Python, JavaScript, Apify, Crawlee, Playwright and Clay.
+
 ## Contact
 
 - Email: [aishataliyu364@gmail.com](mailto:aishataliyu364@gmail.com)
