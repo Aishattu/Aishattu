@@ -1,6 +1,6 @@
 # Aisha · GTM Engineer
 
-I'm a GTM Engineer, I help B2B companies build GTM systems.
+I'm a GTM Engineer. I help B2B companies build GTM systems.
 
 I work across three layers of go-to-market:
 
@@ -19,4 +19,4 @@ I take the manual work a revenue team does every day and turn it into systems th
 
 ## Tools I use
 
-Clay · Claude Code · Claude API · Codex · Grok · Apify · HubSpot · Salesforce · Python · SQL · Supabase · SmartReach · HeyReach · Vercel · GitHub, and more.
+Clay · Claude Code · Apify · HubSpot · Salesforce · Python · SQL · Supabase · SmartReach · HeyReach · Vercel · Instantly . GitHub, and more.
