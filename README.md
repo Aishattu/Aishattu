@@ -1,4 +1,4 @@
-# Aisha · GTM Engineer
+# Aisha · GTM System Engineer
 
 I'm a GTM System Engineer. I help B2B companies build GTM systems.
 
