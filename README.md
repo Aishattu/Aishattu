@@ -1,6 +1,6 @@
 # Aisha · GTM Engineer
 
-I'm a GTM Engineer. I help B2B companies build GTM systems.
+I'm a GTM System Engineer. I help B2B companies build GTM systems.
 
 I work across three layers of go-to-market:
 
