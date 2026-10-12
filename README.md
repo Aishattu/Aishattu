@@ -1,6 +1,6 @@
 # Aisha · GTM System Engineer
 
-I'll take on the responsibility of building every system your revenue engine needs, from the moment a potential buyer is identified to when they become customers or subscribers, and beyond.
+I'll take on the responsibility of building every GTM system your revenue engine needs, from the moment a potential buyer is identified to when they become customers or subscribers, and beyond.
 
 I work across three layers of go-to-market:
 
